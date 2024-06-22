@@ -28,8 +28,13 @@ Veri seti, uydu görüntülerini içeren dört klasörden oluşmaktadır: bulutl
 # Kulunılan Modeller
 
 1- K-Nearest Neighbors (KNN)
+
 2- Random Forest Classifier
+
 3- Desicion Tree Classifier
+
 4- Support Vector Machine (SVM)
+
 5- XGBoost Classifier
+
 6- Gradient Boosting Classifier
